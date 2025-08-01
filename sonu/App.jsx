@@ -10,7 +10,6 @@ function App() {
     <>
       <Style />
       <Text />
-      {/* <ImageComponent /> */}
     </>
   );
 }
